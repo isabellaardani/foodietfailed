@@ -1,6 +1,5 @@
+<h1>APLIKASI FOODIET</h1>
 Aplikasi menu dan resep makanan dan minuman diet yang sehat.
-
-## Getting Started
 
 <h3>1. Home</h3>
 <img src="screenshoot/ss1.jpg" height="400" width="200" />
