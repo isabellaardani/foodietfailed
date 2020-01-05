@@ -55,7 +55,7 @@ Mereka lebih memilih untuk makan makanan favoritnya daripada menjalankan program
 Pada akhrinya, mereka menyesal sendiri karena tidak bisa konsisten pada dietnya.
 Nah, guna menghindari hal itu, aplikasi ini cocok sekali untuk kamu yang kebingungan dengan menu diet sehari - hari kamu.
 
-Foodiet adalah aplikasi yang berisikan menu makanan untuk diet. Aplikasi ini juga memberikan keterangan lengkap resep, gambar masakan, bahan - bahan yang akan digunakan untuk dimasak, dan langkah - langkah pembuatannya.
+Foodiet adalah aplikasi yang berisikan resep menu makanan untuk diet yang sehat. Aplikasi ini juga memberikan keterangan lengkap resep, gambar masakan, bahan - bahan yang akan digunakan untuk dimasak, dan langkah - langkah pembuatannya.
 Di aplikasi ini juga kita dapat mengetahui jenis - jenis diet yang baik dan benar. Semua menu makanan yang ada di aplikasi Foodiet sudah diperhitungkan jumlah kalorinya sehingga dapat membantumu agar berat badanmu bisa turun dan kamu dapat menjalankan diet yang lebih sehat.
 
 
