@@ -1,6 +1,6 @@
 # foodiet
 
-A new Flutter project.
+Aplikasi menu dan resep makanan dan minuman diet yang sehat.
 
 ## Getting Started
 
