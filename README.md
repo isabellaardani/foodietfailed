@@ -1,5 +1,6 @@
 <h1>APLIKASI FOODIET</h1>
-Aplikasi menu dan resep makanan dan minuman diet yang sehat.
+Foodiet adalah aplikasi yang berisikan resep menu makanan untuk diet yang sehat. Aplikasi ini juga memberikan keterangan lengkap resep, gambar masakan, bahan - bahan yang akan digunakan untuk dimasak, dan langkah - langkah pembuatannya.
+Di aplikasi ini juga kita dapat mengetahui jenis - jenis diet yang baik dan benar. Semua menu makanan yang ada di aplikasi Foodiet sudah diperhitungkan jumlah kalorinya sehingga dapat membantumu agar berat badanmu bisa turun dan kamu dapat menjalankan diet yang lebih sehat.
 
 <h3>1. Home</h3>
 <img src="screenshoot/ss1.jpg" height="400" width="200" />
@@ -19,10 +20,10 @@ Aplikasi menu dan resep makanan dan minuman diet yang sehat.
 <h3>6. Detail Jenis Diet</h3>
 <img src="screenshoot/ss44.jpg" height="400" width="200" />
 
-<h3>1. Tentang Diet</h3>
+<h3>7. Tentang Diet</h3>
 <img src="screenshoot/ss5.jpg" height="400" width="200" />
 
-<h3>1. Versi Aplikasi</h3>
+<h3>8. Versi Aplikasi</h3>
 <img src="screenshoot/ss6.jpg" height="400" width="200" />
 
 
