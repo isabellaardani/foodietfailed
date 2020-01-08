@@ -87,7 +87,7 @@ class HomeScreenState extends State<HomeScreen> {
            new Container(
                     margin: EdgeInsets.all(5.0),
                     padding: EdgeInsets.all(10.0),
-                    child: new Text("                           FOODIET",
+                    child: new Text("  FOODIET",
                         style: new TextStyle(
                           color: Colors.orange[300],
                           fontWeight: FontWeight.bold,
@@ -97,7 +97,7 @@ class HomeScreenState extends State<HomeScreen> {
           new Container(
                     margin: EdgeInsets.all(5.0),
                     padding: EdgeInsets.all(6.0),
-                    child: new Text('''         Foodiet adalah aplikasi yang berisikan resep menu makanan untuk diet yang sehat. Aplikasi ini juga memberikan keterangan lengkap resep, gambar masakan, bahan - bahan yang akan digunakan untuk dimasak, dan langkah - langkah pembuatannya. Di aplikasi ini juga kita dapat mengetahui jenis - jenis diet yang baik dan benar. Semua menu makanan yang ada di aplikasi Foodiet sudah diperhitungkan jumlah kalorinya sehingga dapat membantumu agar berat badanmu bisa turun dan kamu dapat menjalankan diet yang lebih sehat.
+                    child: new Text('''  Siapa yang tak menginginkan tubuh yang langsing dan indah? Pasti semua orang menginginkan tubuh seperti itu. Cara yang paling ampuh untuk mendapatkannya adalah dengan program diet dan olahraga rutin. Sayangnya, tidak semua orang bisa konsisten dalam mempertahankan program penurunan berat badan mereka, terutama untuk diet.
 ''',
                         style: new TextStyle(
                           color: Colors.black87,
@@ -107,7 +107,7 @@ class HomeScreenState extends State<HomeScreen> {
           new Container(
                     margin: EdgeInsets.all(5.0),
                     padding: EdgeInsets.all(10.0),
-                    child: new Text("             Alasan Diet Itu Penting",
+                    child: new Text("  Alasan Diet Itu Penting",
                         style: new TextStyle(
                           color: Colors.orange[300],
                           fontWeight: FontWeight.bold,
